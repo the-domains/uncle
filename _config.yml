@@ -1,6 +1,6 @@
 name: UNCLE
 favicon: null
-layout_spectrum: 0.1631
+layout_spectrum: 0.10208
 typography_spectrum: 0.90724
 title: 'UNCLE: UNited Computer security Lab-E'
 cta:
@@ -22,8 +22,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.42930917581543326
-  lightness: 0.4895835961215198
+  brandStrength: 0.3125
+  lightness: 0.5
   saturation: 0.2139099061023444
   rhythmicContrast: 0.7103247665800154
 purpose: []
