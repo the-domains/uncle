@@ -2,14 +2,35 @@
     <channel>
         <title><![CDATA[UNlimited Computer security Lab-E]]></title>
         <description><![CDATA[UNlimited Computer security Lab-E]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/uncle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 May 2016 21:33:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 28 May 2016 21:33:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/uncle/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Use Deterrents, Not Detergents]]></title>
+            <description><![CDATA[<article><h1>Use Deterrents, Not Detergents</h1><p>The use of deterrents to help enforce and highlight IT security controls never seems to get much attention, even though they can be an easy, cheap and effective way for security staff to reduce security risks.</p></article>]]></description>
+            <link>https://thegrid.ai/uncle/use-deterrents-not-detergents/index.html</link>
+            <guid isPermaLink="false">9e87f06f-f7af-43f0-851b-59c329d1e5ff</guid>
+            <pubDate>Sat, 28 May 2016 21:33:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Has the Security of your ‘Castle’ Come to an End?]]></title>
+            <description><![CDATA[<article><h1>Has the Security of your ‘Castle’ Come to an End?</h1><p>Everyone is beginning to suspect that Information Security is in a bit of a crisis these days. Sony, Target, Home Depot, multiple banks and many government departments have had the inner sanctums of their IT infrastructure pillaged by outside hacker teams who, with seeming impunity, wiped systems and stole all of their crown jewels. Sony’s debacle where their security team didn't seem to be aware of the attacks until after it became a Hollywood-sized spectacle is a truly face-palming moment that makes us all cringe and shake our heads in dismay. Not 111MB or 111GB, but 111TB of data were taken? Really?</p></article>]]></description>
+            <link>https://thegrid.ai/uncle/has-the-security-of-your-castle-come-to-an-end/index.html</link>
+            <guid isPermaLink="false">df2d0679-52a2-4294-8bfc-910de3570d55</guid>
+            <pubDate>Sat, 28 May 2016 21:33:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cryptographic Keys in Doubleplusungood Land]]></title>
+            <description><![CDATA[<article><h1>Cryptographic Keys in Doubleplusungood Land</h1><p>I have a scary thought to share with you concerning the security of every cryptographic key used in the entire world.</p></article>]]></description>
+            <link>https://thegrid.ai/uncle/cryptographic-keys-in-doubleplusungood-land/index.html</link>
+            <guid isPermaLink="false">6fc9db56-c012-4a26-8532-7e3fbefa6958</guid>
+            <pubDate>Sat, 28 May 2016 21:33:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Situation Awareness & Cyber Security Defence]]></title>
             <description><![CDATA[<article><h1>Situation Awareness & Cyber Security Defence</h1><p>My last cyber security post introduced the concept of Situation Awareness – having your finger on the pulse of your computer network and knowing whether you’re having a ‘good day’ or a ‘bad day.’ Hopefully your organization’s IT security posture promotes this concept and uses it to help stay one step ahead of the recent computer hacking headlines we’ve all been reading.</p></article>]]></description>
-            <link>undefinedsituation-awareness-and-cyber-security-defence/index.html</link>
+            <link>https://thegrid.ai/uncle/situation-awareness-and-cyber-security-defence/index.html</link>
             <guid isPermaLink="false">74eeb963-6ac8-45bc-b2d8-4fbb3f56408f</guid>
             <pubDate>Sat, 28 May 2016 21:33:56 GMT</pubDate>
         </item>
