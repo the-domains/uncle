@@ -4,13 +4,34 @@
         <description><![CDATA[UNlimited Computer security Lab-E]]></description>
         <link>https://thegrid.ai/uncle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 May 2016 21:33:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2016 21:33:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/uncle/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nuke From Orbit: “it’s the only way to be sure”]]></title>
+            <description><![CDATA[<article><h1>Nuke From Orbit: “it’s the only way to be sure”</h1><p>“There are just two types of companies: those that have been hacked, and those that will be. Even that is merging into one category: those that have been hacked and will be again” says Robert Mueller, FBI Director. </p></article>]]></description>
+            <link>https://thegrid.ai/uncle/nuke-from-orbit-its-the-only-way-to-be-sure/index.html</link>
+            <guid isPermaLink="false">cfd3478c-3fd2-4f5e-9c8a-164ca5d08995</guid>
+            <pubDate>Sat, 28 May 2016 21:33:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“Xtreme” Security: Totally Missing Basic Security]]></title>
+            <description><![CDATA[<article><h1>“Xtreme” Security: Totally Missing Basic Security</h1><p>In its ongoing attempts to capture our attention these days, the media labels everything as “Xtreme” – sports, politics, automobiles and surprise: computer hacking too! But with our current preoccupation on all things hacker-related, we seem to have forgotten about the basic necessities of life when it comes to IT security work.</p></article>]]></description>
+            <link>https://thegrid.ai/uncle/xtreme-security-totally-missing-basic-security/index.html</link>
+            <guid isPermaLink="false">2bcb4cb0-f896-440d-8283-fb444c803e4c</guid>
+            <pubDate>Sat, 28 May 2016 21:33:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Use Deterrents, Not Detergents]]></title>
             <description><![CDATA[<article><h1>Use Deterrents, Not Detergents</h1><p>The use of deterrents to help enforce and highlight IT security controls never seems to get much attention, even though they can be an easy, cheap and effective way for security staff to reduce security risks.</p></article>]]></description>
             <link>https://thegrid.ai/uncle/use-deterrents-not-detergents/index.html</link>
             <guid isPermaLink="false">9e87f06f-f7af-43f0-851b-59c329d1e5ff</guid>
+            <pubDate>Sat, 28 May 2016 21:33:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Has the Security of your ‘Castle’ Come to an End?]]></title>
+            <description><![CDATA[<article><h1>Has the Security of your ‘Castle’ Come to an End?</h1><p>Everyone is beginning to suspect that Information Security is in a bit of a crisis these days. Sony, Target, Home Depot, multiple banks and many government departments have had the inner sanctums of their IT infrastructure pillaged by outside hacker teams who, with seeming impunity, wiped systems and stole all of their crown jewels. Sony’s debacle where their security team didn't seem to be aware of the attacks until after it became a Hollywood-sized spectacle is a truly face-palming moment that makes us all cringe and shake our heads in dismay. Not 111MB or 111GB, but 111TB of data were taken? Really?</p></article>]]></description>
+            <link>https://thegrid.ai/uncle/has-the-security-of-your-castle-come-to-an-end/index.html</link>
+            <guid isPermaLink="false">df2d0679-52a2-4294-8bfc-910de3570d55</guid>
             <pubDate>Sat, 28 May 2016 21:33:56 GMT</pubDate>
         </item>
         <item>
