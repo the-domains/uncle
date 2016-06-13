@@ -1,64 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[UNlimited Computer security Lab-E]]></title>
-        <description><![CDATA[UNlimited Computer security Lab-E]]></description>
-        <link>https://thegrid.ai/uncle/</link>
+        <title><![CDATA[UNCLE: UNited Computer security Lab-E]]></title>
+        <description><![CDATA[UNCLE: UNited Computer security Lab-E]]></description>
+        <link>http://uncle.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 May 2016 21:34:16 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/uncle/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 13 Jun 2016 21:33:30 GMT</lastBuildDate>
+        <atom:link href="http://uncle.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Contact</p>]]></description>
+            <link>http://uncle.com/contact/index.html</link>
+            <guid isPermaLink="false">467c7a9b-afee-4ac8-bc43-c8fa3586578d</guid>
+            <pubDate>Mon, 13 Jun 2016 21:33:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cybersecurity 2016: a Symphony of War Tubas]]></title>
             <description><![CDATA[<article><h1>Cybersecurity 2016: a Symphony of War Tubas</h1><p>2015 was a wild and crazy year for anyone involved in IT security– entire industries hacked and gutted, the rise and fall of high-tech cybersecurity stocks, governments demanding back door encryption keys and the discovery of long-standing nation state back-doors in commercial firewalls.</p></article>]]></description>
-            <link>https://thegrid.ai/uncle/cybersecurity-2016-a-symphony-of-war-tubas/index.html</link>
+            <link>http://uncle.com/cybersecurity-2016-a-symphony-of-war-tubas/index.html</link>
             <guid isPermaLink="false">b443c82d-faaa-4a01-bf4c-c42fed21d715</guid>
             <pubDate>Sat, 28 May 2016 21:33:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Global Spookhauses & Hackers win this Round]]></title>
             <description><![CDATA[<article><h1>Global Spookhauses & Hackers win this Round</h1><p>With the recent news that the National Security Agency and it’s ‘Five Eyes’ partners apparently intercepted literally billions of cell phone SIM crypto keys en route from the manufacturer Gemalto, we have another nail in the coffin of personal privacy. In the words of Star Trek’s irascible Dr. McCoy: “He’s dead, Jim.”</p></article>]]></description>
-            <link>https://thegrid.ai/uncle/global-spookhauses-and-hackers-win-this-round/index.html</link>
+            <link>http://uncle.com/global-spookhauses-and-hackers-win-this-round/index.html</link>
             <guid isPermaLink="false">95f2652f-8584-44fe-a754-3be1ea6e30c7</guid>
             <pubDate>Sat, 28 May 2016 21:33:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nuke From Orbit: “it’s the only way to be sure”]]></title>
             <description><![CDATA[<article><h1>Nuke From Orbit: “it’s the only way to be sure”</h1><p>“There are just two types of companies: those that have been hacked, and those that will be. Even that is merging into one category: those that have been hacked and will be again” says Robert Mueller, FBI Director. </p></article>]]></description>
-            <link>https://thegrid.ai/uncle/nuke-from-orbit-its-the-only-way-to-be-sure/index.html</link>
+            <link>http://uncle.com/nuke-from-orbit-its-the-only-way-to-be-sure/index.html</link>
             <guid isPermaLink="false">cfd3478c-3fd2-4f5e-9c8a-164ca5d08995</guid>
             <pubDate>Sat, 28 May 2016 21:33:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[“Xtreme” Security: Totally Missing Basic Security]]></title>
             <description><![CDATA[<article><h1>“Xtreme” Security: Totally Missing Basic Security</h1><p>In its ongoing attempts to capture our attention these days, the media labels everything as “Xtreme” – sports, politics, automobiles and surprise: computer hacking too! But with our current preoccupation on all things hacker-related, we seem to have forgotten about the basic necessities of life when it comes to IT security work.</p></article>]]></description>
-            <link>https://thegrid.ai/uncle/xtreme-security-totally-missing-basic-security/index.html</link>
+            <link>http://uncle.com/xtreme-security-totally-missing-basic-security/index.html</link>
             <guid isPermaLink="false">2bcb4cb0-f896-440d-8283-fb444c803e4c</guid>
             <pubDate>Sat, 28 May 2016 21:33:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Use Deterrents, Not Detergents]]></title>
             <description><![CDATA[<article><h1>Use Deterrents, Not Detergents</h1><p>The use of deterrents to help enforce and highlight IT security controls never seems to get much attention, even though they can be an easy, cheap and effective way for security staff to reduce security risks.</p></article>]]></description>
-            <link>https://thegrid.ai/uncle/use-deterrents-not-detergents/index.html</link>
+            <link>http://uncle.com/use-deterrents-not-detergents/index.html</link>
             <guid isPermaLink="false">9e87f06f-f7af-43f0-851b-59c329d1e5ff</guid>
             <pubDate>Sat, 28 May 2016 21:33:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Has the Security of your ‘Castle’ Come to an End?]]></title>
             <description><![CDATA[<article><h1>Has the Security of your ‘Castle’ Come to an End?</h1><p>Everyone is beginning to suspect that Information Security is in a bit of a crisis these days. Sony, Target, Home Depot, multiple banks and many government departments have had the inner sanctums of their IT infrastructure pillaged by outside hacker teams who, with seeming impunity, wiped systems and stole all of their crown jewels. Sony’s debacle where their security team didn't seem to be aware of the attacks until after it became a Hollywood-sized spectacle is a truly face-palming moment that makes us all cringe and shake our heads in dismay. Not 111MB or 111GB, but 111TB of data were taken? Really?</p></article>]]></description>
-            <link>https://thegrid.ai/uncle/has-the-security-of-your-castle-come-to-an-end/index.html</link>
+            <link>http://uncle.com/has-the-security-of-your-castle-come-to-an-end/index.html</link>
             <guid isPermaLink="false">df2d0679-52a2-4294-8bfc-910de3570d55</guid>
             <pubDate>Sat, 28 May 2016 21:33:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cryptographic Keys in Doubleplusungood Land]]></title>
             <description><![CDATA[<article><h1>Cryptographic Keys in Doubleplusungood Land</h1><p>I have a scary thought to share with you concerning the security of every cryptographic key used in the entire world.</p></article>]]></description>
-            <link>https://thegrid.ai/uncle/cryptographic-keys-in-doubleplusungood-land/index.html</link>
+            <link>http://uncle.com/cryptographic-keys-in-doubleplusungood-land/index.html</link>
             <guid isPermaLink="false">6fc9db56-c012-4a26-8532-7e3fbefa6958</guid>
             <pubDate>Sat, 28 May 2016 21:33:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Situation Awareness & Cyber Security Defence]]></title>
             <description><![CDATA[<article><h1>Situation Awareness & Cyber Security Defence</h1><p>My last cyber security post introduced the concept of Situation Awareness – having your finger on the pulse of your computer network and knowing whether you’re having a ‘good day’ or a ‘bad day.’ Hopefully your organization’s IT security posture promotes this concept and uses it to help stay one step ahead of the recent computer hacking headlines we’ve all been reading.</p></article>]]></description>
-            <link>https://thegrid.ai/uncle/situation-awareness-and-cyber-security-defence/index.html</link>
+            <link>http://uncle.com/situation-awareness-and-cyber-security-defence/index.html</link>
             <guid isPermaLink="false">74eeb963-6ac8-45bc-b2d8-4fbb3f56408f</guid>
             <pubDate>Sat, 28 May 2016 21:33:56 GMT</pubDate>
         </item>
