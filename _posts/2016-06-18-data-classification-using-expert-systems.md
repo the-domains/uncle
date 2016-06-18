@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Data Classification using Expert Systems
-datePublished: '2016-06-18T20:14:33.899Z'
-dateModified: '2016-06-18T20:14:07.765Z'
+datePublished: '2016-06-18T23:22:47.428Z'
+dateModified: '2016-06-18T23:22:42.209Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-18-data-classification-using-expert-systems.md
 authors: []
 publisher: null
-starred: true
-sourcePath: _posts/2016-06-18-data-classification-using-expert-systems.md
+starred: false
 url: data-classification-using-expert-systems/index.html
 _type: Article
 
@@ -22,8 +22,6 @@ _type: Article
 **Data Classification using Expert Systems**
 
 Copyright (c) Walter J. Cooke, 1994, 2016\. All rights reserved.
-
-**ABSTRACT**
 
 Classifying data according to its sensitivity and value is part of the due reasonable care that should be practiced in every organization in their Data Governance process. Unfortunately, this work is often not done or is only partly done due to the time and resources needed to perform the job correctly. This work is usually done manually, but time and resources may be saved by automating the entire data classification process. Automation may use any of the Expert System software packages that run on ordinary personal computers. This paper describes the work involved in creating and moving from a manual, questionnaire-based classification process to an automated process using Expert System software. The benefits of using an "expert-on-a-disk" include tangible cost savings and the ability to logistically manage and compete a job which would otherwise bury a team of analysts in paperwork.
 
@@ -106,30 +104,18 @@ Control questions in the rule base serve several purposes. First, they provide a
 The benefits of doing the data classification work by using an Expert System are:
 
 * much less paper work: a file containing the rule base and run-time system is distributed with simple instructions to use the ES;
-* 
-cost savings, both tangible and intangible, mostly associated with time reduction;
-* 
-anyone can use it on a standard PC; there are no special hardware requirements;
-* 
-a storage and sharing of esoteric knowledge: the ES hosts knowledge that won't be lost if the domain expert retires or leaves the organization;
-* 
-the ES can provide help, and explain how and why it reached its result;
-* 
-improved speed, accuracy, and consistently repeatable correctness of results;
-* 
-very complex confidence factors, weighting and override schemes can be designed into the ES;
-* 
-ES tools can handle "I Don't Know" and "Possibly" responses by using Bayes theorem;
-* 
-many ES tools can directly import information from Excel and other databases to ease the work of constructing the rule base;
-* 
-the ES rule base can be easily updated when the model needs changes or additions;
-* 
-the ES can modify and add to the knowledge base during a consultation when new information is encountered, so in a limited sense the ES is able to "learn" from experience;
-* 
-usually the users have no preconceived notion of how the work should be done and no resistance to do it, since it is straight-forward, fast, and the machine performs all the calculations using the minimum number of questions required to reach a conclusion;
-* 
-there is a much higher probability that the data classification work is completed.
+* cost savings, both tangible and intangible, mostly associated with time reduction;
+* anyone can use it on a standard PC; there are no special hardware requirements;
+* a storage and sharing of esoteric knowledge: the ES hosts knowledge that won't be lost if the domain expert retires or leaves the organization;
+* the ES can provide help, and explain how and why it reached its result;
+* improved speed, accuracy, and consistently repeatable correctness of results;
+* very complex confidence factors, weighting and override schemes can be designed into the ES;
+* ES tools can handle "I Don't Know" and "Possibly" responses by using Bayes theorem;
+* many ES tools can directly import information from Excel and other databases to ease the work of constructing the rule base;
+* the ES rule base can be easily updated when the model needs changes or additions;
+* the ES can modify and add to the knowledge base during a consultation when new information is encountered, so in a limited sense the ES is able to "learn" from experience;
+* usually the users have no preconceived notion of how the work should be done and no resistance to do it, since it is straight-forward, fast, and the machine performs all the calculations using the minimum number of questions required to reach a conclusion;
+* there is a much higher probability that the data classification work is completed.
 
 It is also possible to move your model from one Expert System to a different Expert System package. You might want to do this if your model outgrows the features available in your current package, or because you decide to make the Expert System available for consultation over a network. Experience has shown that about two weeks of work are required to re-program the ES in a new syntax, and another one to two weeks is needed to properly test the new model, iron out unexpected bugs and misunderstanding on how the new software works, add help screens, and document the correct operation and usage of the new system.
 
