@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Data Classification using Expert Systems
-datePublished: '2016-06-18T23:37:01.068Z'
-dateModified: '2016-06-18T23:36:48.015Z'
+datePublished: '2016-06-19T13:46:25.025Z'
+dateModified: '2016-06-19T13:46:18.155Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-18-data-classification-using-expert-systems.md
@@ -21,7 +21,9 @@ _type: Article
 
 **Data Classification using Expert Systems**
 
-Classifying data according to its sensitivity and value is part of the due reasonable care that should be practiced in every organization in their Data Governance process. Unfortunately, this work is often not done or is only partly done due to the time and resources needed to perform the job correctly. This work is usually done manually, but time and resources may be saved by automating the entire data classification process. Automation may use any of the Expert System software packages that run on ordinary personal computers. This paper describes the work involved in creating and moving from a manual, questionnaire-based classification process to an automated process using Expert System software. The benefits of using an "expert-on-a-disk" include tangible cost savings and the ability to logistically manage and compete a job which would otherwise bury a team of analysts in paperwork.
+Classifying data according to its sensitivity and value is part of the due reasonable care that should be practiced in every organization in their Data Governance process. This work is usually done manually, but time and resources may be saved by automating the entire data classification process. Automation may use any of the Expert System software packages that run on ordinary personal computers. 
+
+This paper describes the work involved in creating and moving from a manual, questionnaire-based classification process to an automated process using Expert System software. The benefits of using an "expert-on-a-disk" include tangible cost savings and the ability to logistically manage and compete a job which would otherwise bury a team of analysts in paperwork.
 
 Copyright (c) Walter J. Cooke, 1994, 2016\. All rights reserved.
 
