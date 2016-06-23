@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Data Classification using Expert Systems
-datePublished: '2016-06-23T00:10:41.682Z'
-dateModified: '2016-06-23T00:10:31.073Z'
+datePublished: '2016-06-23T00:12:56.088Z'
+dateModified: '2016-06-23T00:11:56.632Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-18-data-classification-using-expert-systems.md
@@ -132,3 +132,4 @@ Archived at: http://uncle.com
 **Version 1.6 last updated June 10, 2016\. All contents copyright (c) 1996, 2016, General Intention. All rights reserved.**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/85be8848-a6c8-4d63-8681-3be410bc3ba6.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/61230611-e301-453e-bdd1-6cdeb2429c68.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4ccfa6f-8961-4fb6-a30e-eceaaa31ea71.jpg)
