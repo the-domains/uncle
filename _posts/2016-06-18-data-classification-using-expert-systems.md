@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Data Classification using Expert Systems
-datePublished: '2016-06-19T13:46:25.025Z'
-dateModified: '2016-06-19T13:46:18.155Z'
+datePublished: '2016-06-23T00:07:48.673Z'
+dateModified: '2016-06-23T00:07:44.880Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-18-data-classification-using-expert-systems.md
@@ -17,21 +17,19 @@ url: data-classification-using-expert-systems/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/130fc61c-f1cf-40fb-b801-b148fb1019f1.jpg)
-
 **Data Classification using Expert Systems**
 
 Classifying data according to its sensitivity and value is part of the due reasonable care that should be practiced in every organization in their Data Governance process. This work is usually done manually, but time and resources may be saved by automating the entire data classification process. Automation may use any of the Expert System software packages that run on ordinary personal computers. 
 
-This paper describes the work involved in creating and moving from a manual, questionnaire-based classification process to an automated process using Expert System software. The benefits of using an "expert-on-a-disk" include tangible cost savings and the ability to logistically manage and compete a job which would otherwise bury a team of analysts in paperwork.
+This paper describes the work involved in creating and moving from a manual, questionnaire-based classification process to an automated process using Expert System software. The benefits of using an "expert on a disk" include tangible cost savings and the ability to logistically manage and compete a job which would otherwise bury a team of analysts in paperwork.
 
 Copyright (c) Walter J. Cooke, 1994, 2016\. All rights reserved.
 
-**AN EXPERT ON A DISK**
+**An Expert on a Disk**
 
 Like the cobbler whose children have no shoes, Information Technology (IT) departments who are tasked with automating their organization's work often get around to automating their own work last. IT is the department most often charged with data security custodial responsibilities. IT security analysts spend their time maintaining access rules, architecting security for new application systems, developing and enforcing security policy. Classifying data according to its sensitivity and value is another part of the Data Governance security work that should also be done. Unfortunately, this work is often not done or is only partly completed due to the time and resources needed to perform the job correctly. This work is usually done manually, but automation is possible using the Expert System software packages that run on ordinary personal computers.
 
-An Expert System (ES) emulates deductive reasoning. It uses a symbolic representation of knowledge concerning a bounded, well-defined area of interest, such as selecting the proper chemicals for an experiment, or leading a consultant through a set of tests to decide what components are required to properly configure a new computer system. This knowledge is usually coded in the ES as a set of rules which define the action to be taken if the knowledge being tested during a consultation is true or false. Baysian analysis can also be used to determine if an state is unknown, more likely, or less likely to be true. The rules are constructed by a domain experts who use their experience of the area to define a set of elements that, when evaluated together, can lead the user to a proper conclusion, just as if the experts were personally questioning the user. For this reason, Expert Systems are often viewed as an "expert-on-a-disk." The set of rules in the Expert System form the model of the domain under consideration. If a process leading to a decision can be modelled, then the process is a suitable candidate for modelling as an Expert System. The process of reviewing data attributes and other domain information to decide how information should be classified according to its confidentiality, integrity, and availability components can be modelled in this way.
+An Expert System (ES) emulates deductive reasoning. It uses a symbolic representation of knowledge concerning a bounded, well-defined area of interest, such as selecting the proper chemicals for an experiment, or leading a consultant through a set of tests to decide what components are required to properly configure a new computer system. This knowledge is usually coded in the ES as a set of rules which define the action to be taken if the knowledge being tested during a consultation is true or false. Baysian analysis can also be used to determine if an state is unknown, more likely, or less likely to be true. The rules are constructed by a domain expert who use their experience of the area to define a set of elements that, when evaluated together, can lead the user to a proper conclusion, just as if the experts were personally questioning the user. For this reason, Expert Systems are often viewed as an "expert-on-a-disk." The set of rules in the Expert System form the model of the domain under consideration. If a process leading to a decision can be modelled, then the process is a suitable candidate for modelling as an Expert System. The process of reviewing data attributes and other domain information to decide how information should be classified according to its confidentiality, integrity, and availability components can be modelled in this way.
 
 **THE VALUE OF DATA**
 
@@ -132,3 +130,4 @@ cooke ( at ) uncle (.) com
 Archived at: http://uncle.com
 
 **Version 1.6 last updated June 10, 2016\. All contents copyright (c) 1996, 2016, General Intention. All rights reserved.**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/85be8848-a6c8-4d63-8681-3be410bc3ba6.jpg)
