@@ -4,15 +4,19 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: '2015 was a wild and crazy year for anyone involved in IT security– entire industries hacked and gutted, the rise and fall of high-tech cybersecurity stocks, governments demanding back door encryption keys and the discovery of long-standing nation state back-doors in commercial firewalls.'
-datePublished: '2016-05-28T21:33:57.290Z'
-dateModified: '2016-05-28T21:32:31.639Z'
+description: >-
+  2015 was a wild and crazy year for anyone involved in IT security– entire
+  industries hacked and gutted, the rise and fall of high-tech cybersecurity
+  stocks, governments demanding back door encryption keys and the discovery of
+  long-standing nation state back-doors in commercial firewalls.
+datePublished: '2016-06-24T20:32:33.128Z'
+dateModified: '2016-06-24T20:20:47.156Z'
 title: 'Cybersecurity 2016: a Symphony of War Tubas'
 author: []
+sourcePath: _posts/2016-05-28-cybersecurity-2016-a-symphony-of-war-tubas.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-28-cybersecurity-2016-a-symphony-of-war-tubas.md
 url: cybersecurity-2016-a-symphony-of-war-tubas/index.html
 _type: Article
 
