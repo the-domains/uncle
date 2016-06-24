@@ -4,15 +4,20 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'With the recent news that the National Security Agency and it’s ‘Five Eyes’ partners apparently intercepted literally billions of cell phone SIM crypto keys en route from the manufacturer Gemalto, we have another nail in the coffin of personal privacy. In the words of Star Trek’s irascible Dr. McCoy: “He’s dead, Jim.”'
-datePublished: '2016-05-28T21:33:57.153Z'
-dateModified: '2016-05-28T21:28:07.245Z'
-title: 'Global Spookhauses & Hackers win this Round'
+description: >-
+  With the recent news that the National Security Agency and it’s ‘Five Eyes’
+  partners apparently intercepted literally billions of cell phone SIM crypto
+  keys en route from the manufacturer Gemalto, we have another nail in the
+  coffin of personal privacy. In the words of Star Trek’s irascible Dr. McCoy:
+  “He’s dead, Jim.”
+datePublished: '2016-06-24T20:32:06.661Z'
+dateModified: '2016-06-24T20:19:54.311Z'
+title: Global Spookhauses & Hackers win this Round
 author: []
+sourcePath: _posts/2016-05-28-global-spookhauses-and-hackers-win-this-round.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-28-global-spookhauses-and-hackers-win-this-round.md
 url: global-spookhauses-and-hackers-win-this-round/index.html
 _type: Article
 
