@@ -13,8 +13,8 @@ description: >-
   didn't seem to be aware of the attacks until after it became a Hollywood-sized
   spectacle is a truly face-palming moment that makes us all cringe and shake
   our heads in dismay. Not 111MB or 111GB, but 111TB of data were taken? Really?
-datePublished: '2016-06-24T20:31:45.133Z'
-dateModified: '2016-06-24T20:18:58.326Z'
+datePublished: '2016-06-24T20:40:45.290Z'
+dateModified: '2016-06-24T20:39:57.273Z'
 title: Has the Security of your ‘Castle’ Come to an End?
 author: []
 sourcePath: _posts/2016-05-28-has-the-security-of-your-castle-come-to-an-end.md
