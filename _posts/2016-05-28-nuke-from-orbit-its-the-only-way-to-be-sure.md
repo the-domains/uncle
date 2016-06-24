@@ -4,15 +4,18 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: '“There are just two types of companies: those that have been hacked, and those that will be. Even that is merging into one category: those that have been hacked and will be again” says Robert Mueller, FBI Director. '
-datePublished: '2016-05-28T21:33:57.058Z'
-dateModified: '2016-05-28T21:29:53.965Z'
+description: >-
+  “There are just two types of companies: those that have been hacked, and those
+  that will be. Even that is merging into one category: those that have been
+  hacked and will be again” says Robert Mueller, FBI Director. 
+datePublished: '2016-06-24T20:32:11.554Z'
+dateModified: '2016-06-24T20:20:07.180Z'
 title: 'Nuke From Orbit: “it’s the only way to be sure”'
 author: []
+sourcePath: _posts/2016-05-28-nuke-from-orbit-its-the-only-way-to-be-sure.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-28-nuke-from-orbit-its-the-only-way-to-be-sure.md
 url: nuke-from-orbit-its-the-only-way-to-be-sure/index.html
 _type: Article
 
