@@ -4,7 +4,7 @@
         <description><![CDATA[UNCLE: UNited Computer security Lab-E]]></description>
         <link>http://uncle.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 24 Jun 2016 20:31:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2016 20:32:36 GMT</lastBuildDate>
         <atom:link href="http://uncle.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,20 @@
             <link>http://uncle.com/contact/index.html</link>
             <guid isPermaLink="false">467c7a9b-afee-4ac8-bc43-c8fa3586578d</guid>
             <pubDate>Thu, 23 Jun 2016 00:44:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Global Spookhauses & Hackers win this Round]]></title>
+            <description><![CDATA[<article><h1>Global Spookhauses & Hackers win this Round</h1><p>With the recent news that the National Security Agency and it’s ‘Five Eyes’ partners apparently intercepted literally billions of cell phone SIM crypto keys en route from the manufacturer Gemalto, we have another nail in the coffin of personal privacy. In the words of Star Trek’s irascible Dr. McCoy: “He’s dead, Jim.”</p></article>]]></description>
+            <link>http://uncle.com/global-spookhauses-and-hackers-win-this-round/index.html</link>
+            <guid isPermaLink="false">95f2652f-8584-44fe-a754-3be1ea6e30c7</guid>
+            <pubDate>Fri, 24 Jun 2016 20:32:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cryptographic Keys in Doubleplusungood Land]]></title>
+            <description><![CDATA[<article><h1>Cryptographic Keys in Doubleplusungood Land</h1><p>I have a scary thought to share with you concerning the security of every cryptographic key used in the entire world.</p></article>]]></description>
+            <link>http://uncle.com/cryptographic-keys-in-doubleplusungood-land/index.html</link>
+            <guid isPermaLink="false">6fc9db56-c012-4a26-8532-7e3fbefa6958</guid>
+            <pubDate>Fri, 24 Jun 2016 20:32:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Situation Awareness & Cyber Security Defence]]></title>
@@ -42,13 +56,6 @@
             <pubDate>Sat, 28 May 2016 21:33:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Global Spookhauses & Hackers win this Round]]></title>
-            <description><![CDATA[<article><h1>Global Spookhauses & Hackers win this Round</h1><p>With the recent news that the National Security Agency and it’s ‘Five Eyes’ partners apparently intercepted literally billions of cell phone SIM crypto keys en route from the manufacturer Gemalto, we have another nail in the coffin of personal privacy. In the words of Star Trek’s irascible Dr. McCoy: “He’s dead, Jim.”</p></article>]]></description>
-            <link>http://uncle.com/global-spookhauses-and-hackers-win-this-round/index.html</link>
-            <guid isPermaLink="false">95f2652f-8584-44fe-a754-3be1ea6e30c7</guid>
-            <pubDate>Sat, 28 May 2016 21:33:57 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Nuke From Orbit: “it’s the only way to be sure”]]></title>
             <description><![CDATA[<article><h1>Nuke From Orbit: “it’s the only way to be sure”</h1><p>“There are just two types of companies: those that have been hacked, and those that will be. Even that is merging into one category: those that have been hacked and will be again” says Robert Mueller, FBI Director. </p></article>]]></description>
             <link>http://uncle.com/nuke-from-orbit-its-the-only-way-to-be-sure/index.html</link>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Use Deterrents, Not Detergents</h1><p>The use of deterrents to help enforce and highlight IT security controls never seems to get much attention, even though they can be an easy, cheap and effective way for security staff to reduce security risks.</p></article>]]></description>
             <link>http://uncle.com/use-deterrents-not-detergents/index.html</link>
             <guid isPermaLink="false">9e87f06f-f7af-43f0-851b-59c329d1e5ff</guid>
-            <pubDate>Sat, 28 May 2016 21:33:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cryptographic Keys in Doubleplusungood Land]]></title>
-            <description><![CDATA[<article><h1>Cryptographic Keys in Doubleplusungood Land</h1><p>I have a scary thought to share with you concerning the security of every cryptographic key used in the entire world.</p></article>]]></description>
-            <link>http://uncle.com/cryptographic-keys-in-doubleplusungood-land/index.html</link>
-            <guid isPermaLink="false">6fc9db56-c012-4a26-8532-7e3fbefa6958</guid>
             <pubDate>Sat, 28 May 2016 21:33:56 GMT</pubDate>
         </item>
     </channel>
