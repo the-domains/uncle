@@ -4,7 +4,7 @@
         <description><![CDATA[UNCLE: UNited Computer security Lab-E]]></description>
         <link>http://uncle.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 24 Jun 2016 20:32:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2016 20:32:39 GMT</lastBuildDate>
         <atom:link href="http://uncle.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,41 @@
             <link>http://uncle.com/contact/index.html</link>
             <guid isPermaLink="false">467c7a9b-afee-4ac8-bc43-c8fa3586578d</guid>
             <pubDate>Thu, 23 Jun 2016 00:44:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cybersecurity 2016: a Symphony of War Tubas]]></title>
+            <description><![CDATA[<article><h1>Cybersecurity 2016: a Symphony of War Tubas</h1><p>2015 was a wild and crazy year for anyone involved in IT security– entire industries hacked and gutted, the rise and fall of high-tech cybersecurity stocks, governments demanding back door encryption keys and the discovery of long-standing nation state back-doors in commercial firewalls.</p></article>]]></description>
+            <link>http://uncle.com/cybersecurity-2016-a-symphony-of-war-tubas/index.html</link>
+            <guid isPermaLink="false">b443c82d-faaa-4a01-bf4c-c42fed21d715</guid>
+            <pubDate>Fri, 24 Jun 2016 20:32:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“Xtreme” Security: Totally Missing Basic Security]]></title>
+            <description><![CDATA[<article><h1>“Xtreme” Security: Totally Missing Basic Security</h1><p>In its ongoing attempts to capture our attention these days, the media labels everything as “Xtreme” – sports, politics, automobiles and surprise: computer hacking too! But with our current preoccupation on all things hacker-related, we seem to have forgotten about the basic necessities of life when it comes to IT security work.</p></article>]]></description>
+            <link>http://uncle.com/xtreme-security-totally-missing-basic-security/index.html</link>
+            <guid isPermaLink="false">2bcb4cb0-f896-440d-8283-fb444c803e4c</guid>
+            <pubDate>Fri, 24 Jun 2016 20:32:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Use Deterrents, Not Detergents]]></title>
+            <description><![CDATA[<article><h1>Use Deterrents, Not Detergents</h1><p>The use of deterrents to help enforce and highlight IT security controls never seems to get much attention, even though they can be an easy, cheap and effective way for security staff to reduce security risks.</p></article>]]></description>
+            <link>http://uncle.com/use-deterrents-not-detergents/index.html</link>
+            <guid isPermaLink="false">9e87f06f-f7af-43f0-851b-59c329d1e5ff</guid>
+            <pubDate>Fri, 24 Jun 2016 20:32:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nuke From Orbit: “it’s the only way to be sure”]]></title>
+            <description><![CDATA[<article><h1>Nuke From Orbit: “it’s the only way to be sure”</h1><p>“There are just two types of companies: those that have been hacked, and those that will be. Even that is merging into one category: those that have been hacked and will be again” says Robert Mueller, FBI Director. </p></article>]]></description>
+            <link>http://uncle.com/nuke-from-orbit-its-the-only-way-to-be-sure/index.html</link>
+            <guid isPermaLink="false">cfd3478c-3fd2-4f5e-9c8a-164ca5d08995</guid>
+            <pubDate>Fri, 24 Jun 2016 20:32:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Global Spookhauses & Hackers win this Round]]></title>
+            <description><![CDATA[<article><h1>Global Spookhauses & Hackers win this Round</h1><p>With the recent news that the National Security Agency and it’s ‘Five Eyes’ partners apparently intercepted literally billions of cell phone SIM crypto keys en route from the manufacturer Gemalto, we have another nail in the coffin of personal privacy. In the words of Star Trek’s irascible Dr. McCoy: “He’s dead, Jim.”</p></article>]]></description>
+            <link>http://uncle.com/global-spookhauses-and-hackers-win-this-round/index.html</link>
+            <guid isPermaLink="false">95f2652f-8584-44fe-a754-3be1ea6e30c7</guid>
+            <pubDate>Fri, 24 Jun 2016 20:32:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cryptographic Keys in Doubleplusungood Land]]></title>
@@ -40,41 +75,6 @@
             <link>http://uncle.com/data-classification-using-expert-systems/index.html</link>
             <guid isPermaLink="false">665addc9-817a-492b-8e41-46f5f63242ff</guid>
             <pubDate>Fri, 24 Jun 2016 20:27:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cybersecurity 2016: a Symphony of War Tubas]]></title>
-            <description><![CDATA[<article><h1>Cybersecurity 2016: a Symphony of War Tubas</h1><p>2015 was a wild and crazy year for anyone involved in IT security– entire industries hacked and gutted, the rise and fall of high-tech cybersecurity stocks, governments demanding back door encryption keys and the discovery of long-standing nation state back-doors in commercial firewalls.</p></article>]]></description>
-            <link>http://uncle.com/cybersecurity-2016-a-symphony-of-war-tubas/index.html</link>
-            <guid isPermaLink="false">b443c82d-faaa-4a01-bf4c-c42fed21d715</guid>
-            <pubDate>Sat, 28 May 2016 21:33:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Global Spookhauses & Hackers win this Round]]></title>
-            <description><![CDATA[<article><h1>Global Spookhauses & Hackers win this Round</h1><p>With the recent news that the National Security Agency and it’s ‘Five Eyes’ partners apparently intercepted literally billions of cell phone SIM crypto keys en route from the manufacturer Gemalto, we have another nail in the coffin of personal privacy. In the words of Star Trek’s irascible Dr. McCoy: “He’s dead, Jim.”</p></article>]]></description>
-            <link>http://uncle.com/global-spookhauses-and-hackers-win-this-round/index.html</link>
-            <guid isPermaLink="false">95f2652f-8584-44fe-a754-3be1ea6e30c7</guid>
-            <pubDate>Sat, 28 May 2016 21:33:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nuke From Orbit: “it’s the only way to be sure”]]></title>
-            <description><![CDATA[<article><h1>Nuke From Orbit: “it’s the only way to be sure”</h1><p>“There are just two types of companies: those that have been hacked, and those that will be. Even that is merging into one category: those that have been hacked and will be again” says Robert Mueller, FBI Director. </p></article>]]></description>
-            <link>http://uncle.com/nuke-from-orbit-its-the-only-way-to-be-sure/index.html</link>
-            <guid isPermaLink="false">cfd3478c-3fd2-4f5e-9c8a-164ca5d08995</guid>
-            <pubDate>Sat, 28 May 2016 21:33:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[“Xtreme” Security: Totally Missing Basic Security]]></title>
-            <description><![CDATA[<article><h1>“Xtreme” Security: Totally Missing Basic Security</h1><p>In its ongoing attempts to capture our attention these days, the media labels everything as “Xtreme” – sports, politics, automobiles and surprise: computer hacking too! But with our current preoccupation on all things hacker-related, we seem to have forgotten about the basic necessities of life when it comes to IT security work.</p></article>]]></description>
-            <link>http://uncle.com/xtreme-security-totally-missing-basic-security/index.html</link>
-            <guid isPermaLink="false">2bcb4cb0-f896-440d-8283-fb444c803e4c</guid>
-            <pubDate>Sat, 28 May 2016 21:33:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Use Deterrents, Not Detergents]]></title>
-            <description><![CDATA[<article><h1>Use Deterrents, Not Detergents</h1><p>The use of deterrents to help enforce and highlight IT security controls never seems to get much attention, even though they can be an easy, cheap and effective way for security staff to reduce security risks.</p></article>]]></description>
-            <link>http://uncle.com/use-deterrents-not-detergents/index.html</link>
-            <guid isPermaLink="false">9e87f06f-f7af-43f0-851b-59c329d1e5ff</guid>
-            <pubDate>Sat, 28 May 2016 21:33:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
