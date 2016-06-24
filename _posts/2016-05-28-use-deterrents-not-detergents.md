@@ -4,15 +4,18 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'The use of deterrents to help enforce and highlight IT security controls never seems to get much attention, even though they can be an easy, cheap and effective way for security staff to reduce security risks.'
-datePublished: '2016-05-28T21:33:56.996Z'
-dateModified: '2016-05-28T21:30:58.822Z'
+description: >-
+  The use of deterrents to help enforce and highlight IT security controls never
+  seems to get much attention, even though they can be an easy, cheap and
+  effective way for security staff to reduce security risks.
+datePublished: '2016-06-24T20:32:18.445Z'
+dateModified: '2016-06-24T20:20:21.855Z'
 title: 'Use Deterrents, Not Detergents'
 author: []
+sourcePath: _posts/2016-05-28-use-deterrents-not-detergents.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-28-use-deterrents-not-detergents.md
 url: use-deterrents-not-detergents/index.html
 _type: Article
 
