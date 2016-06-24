@@ -4,15 +4,20 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'In its ongoing attempts to capture our attention these days, the media labels everything as “Xtreme” – sports, politics, automobiles and surprise: computer hacking too! But with our current preoccupation on all things hacker-related, we seem to have forgotten about the basic necessities of life when it comes to IT security work.'
-datePublished: '2016-05-28T21:33:57.034Z'
-dateModified: '2016-05-28T21:31:55.810Z'
+description: >-
+  In its ongoing attempts to capture our attention these days, the media labels
+  everything as “Xtreme” – sports, politics, automobiles and surprise: computer
+  hacking too! But with our current preoccupation on all things hacker-related,
+  we seem to have forgotten about the basic necessities of life when it comes to
+  IT security work.
+datePublished: '2016-06-24T20:32:27.030Z'
+dateModified: '2016-06-24T20:20:32.930Z'
 title: '“Xtreme” Security: Totally Missing Basic Security'
 author: []
+sourcePath: _posts/2016-05-28-xtreme-security-totally-missing-basic-security.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-28-xtreme-security-totally-missing-basic-security.md
 url: xtreme-security-totally-missing-basic-security/index.html
 _type: Article
 
