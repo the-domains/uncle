@@ -4,15 +4,23 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: "Everyone is beginning to suspect that Information Security is in a bit of a crisis these days. Sony, Target, Home Depot, multiple banks and many government departments have had the inner sanctums of their IT infrastructure pillaged by outside hacker teams who, with seeming impunity, wiped systems and stole all of their crown jewels. Sony’s debacle where their security team didn't seem to be aware of the attacks until after it became a Hollywood-sized spectacle is a truly face-palming moment that makes us all cringe and shake our heads in dismay. Not 111MB or 111GB, but 111TB of data were taken? Really?"
-datePublished: '2016-05-28T21:33:56.918Z'
-dateModified: '2016-05-28T21:33:06.990Z'
+description: >-
+  Everyone is beginning to suspect that Information Security is in a bit of a
+  crisis these days. Sony, Target, Home Depot, multiple banks and many
+  government departments have had the inner sanctums of their IT infrastructure
+  pillaged by outside hacker teams who, with seeming impunity, wiped systems and
+  stole all of their crown jewels. Sony’s debacle where their security team
+  didn't seem to be aware of the attacks until after it became a Hollywood-sized
+  spectacle is a truly face-palming moment that makes us all cringe and shake
+  our heads in dismay. Not 111MB or 111GB, but 111TB of data were taken? Really?
+datePublished: '2016-06-24T20:31:45.133Z'
+dateModified: '2016-06-24T20:18:58.326Z'
 title: Has the Security of your ‘Castle’ Come to an End?
 author: []
+sourcePath: _posts/2016-05-28-has-the-security-of-your-castle-come-to-an-end.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-28-has-the-security-of-your-castle-come-to-an-end.md
 url: has-the-security-of-your-castle-come-to-an-end/index.html
 _type: Article
 
