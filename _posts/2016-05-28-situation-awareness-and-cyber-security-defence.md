@@ -4,15 +4,20 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: My last cyber security post introduced the concept of Situation Awareness – having your finger on the pulse of your computer network and knowing whether you’re having a ‘good day’ or a ‘bad day.’ Hopefully your organization’s IT security posture promotes this concept and uses it to help stay one step ahead of the recent computer hacking headlines we’ve all been reading.
-datePublished: '2016-05-28T21:33:56.684Z'
-dateModified: '2016-05-28T21:24:38.742Z'
-title: 'Situation Awareness & Cyber Security Defence'
+description: >-
+  My last cyber security post introduced the concept of Situation Awareness –
+  having your finger on the pulse of your computer network and knowing whether
+  you’re having a ‘good day’ or a ‘bad day.’ Hopefully your organization’s IT
+  security posture promotes this concept and uses it to help stay one step ahead
+  of the recent computer hacking headlines we’ve all been reading.
+datePublished: '2016-06-24T20:31:53.588Z'
+dateModified: '2016-06-24T20:19:15.592Z'
+title: Situation Awareness & Cyber Security Defence
 author: []
+sourcePath: _posts/2016-05-28-situation-awareness-and-cyber-security-defence.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-28-situation-awareness-and-cyber-security-defence.md
 url: situation-awareness-and-cyber-security-defence/index.html
 _type: Article
 
