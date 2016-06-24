@@ -4,15 +4,17 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: I have a scary thought to share with you concerning the security of every cryptographic key used in the entire world.
-datePublished: '2016-05-28T21:33:56.737Z'
-dateModified: '2016-05-28T21:25:43.431Z'
+description: >-
+  I have a scary thought to share with you concerning the security of every
+  cryptographic key used in the entire world.
+datePublished: '2016-06-24T20:32:00.799Z'
+dateModified: '2016-06-24T20:19:30.032Z'
 title: Cryptographic Keys in Doubleplusungood Land
 author: []
+sourcePath: _posts/2016-05-28-cryptographic-keys-in-doubleplusungood-land.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-28-cryptographic-keys-in-doubleplusungood-land.md
 url: cryptographic-keys-in-doubleplusungood-land/index.html
 _type: Article
 
