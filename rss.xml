@@ -4,7 +4,7 @@
         <description><![CDATA[UNCLE: UNited Computer security Lab-E]]></description>
         <link>http://uncle.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 25 Jun 2016 20:35:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2016 20:36:34 GMT</lastBuildDate>
         <atom:link href="http://uncle.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://uncle.com/contact/index.html</link>
             <guid isPermaLink="false">467c7a9b-afee-4ac8-bc43-c8fa3586578d</guid>
             <pubDate>Sat, 25 Jun 2016 20:35:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Data Classification using Expert Systems]]></title>
+            <description><![CDATA[<p>Data Classification using Expert Systems</p>]]></description>
+            <link>http://uncle.com/data-classification-using-expert-systems/index.html</link>
+            <guid isPermaLink="false">665addc9-817a-492b-8e41-46f5f63242ff</guid>
+            <pubDate>Sat, 25 Jun 2016 20:36:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Has the Security of your ‘Castle’ Come to an End?]]></title>
@@ -68,13 +75,6 @@
             <link>http://uncle.com/situation-awareness-and-cyber-security-defence/index.html</link>
             <guid isPermaLink="false">74eeb963-6ac8-45bc-b2d8-4fbb3f56408f</guid>
             <pubDate>Fri, 24 Jun 2016 20:31:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Data Classification using Expert Systems]]></title>
-            <description><![CDATA[<p>Data Classification using Expert Systems</p>]]></description>
-            <link>http://uncle.com/data-classification-using-expert-systems/index.html</link>
-            <guid isPermaLink="false">665addc9-817a-492b-8e41-46f5f63242ff</guid>
-            <pubDate>Fri, 24 Jun 2016 20:27:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
