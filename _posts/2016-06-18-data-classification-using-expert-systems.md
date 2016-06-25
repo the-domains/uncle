@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Data Classification using Expert Systems
-datePublished: '2016-06-24T20:27:34.526Z'
-dateModified: '2016-06-24T20:27:32.452Z'
+datePublished: '2016-06-25T20:36:07.634Z'
+dateModified: '2016-06-24T20:42:06.368Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-18-data-classification-using-expert-systems.md
