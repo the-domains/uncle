@@ -1,6 +1,6 @@
 name: 'UNCLE: UNited Computer security Lab-E'
 favicon: null
-layout_spectrum: 0.25534
+layout_spectrum: 0.04802
 typography_spectrum: 0.90724
 title: 'UNCLE: UNited Computer security Lab-E'
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#1c1210'
+    - '#711615'
+    - '#746550'
+    - '#9b9a95'
+    - '#cfd0cb'
   brandStrength: 0.0625
   lightness: 0.5
   saturation: 0.2139099061023444
